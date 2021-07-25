@@ -7,7 +7,7 @@
 
 ### What helper function does ?
 
-* #### [_bulk:](!https://github.com/harsh863/js-practice-snippets/blob/master/helper/_bulk.js)
+* #### <a href="https://github.com/harsh863/js-practice-snippets/blob/master/helper/_bulk.js">_bulk:</a>
   
    - _bulkRunner => Takes an array of object ( { dataset, func }[] )
      * dataset: array of arguments to be fed to executing function
@@ -23,24 +23,24 @@
      * endWithStartingFunc: Whether to execute first function again after all passed functions are executed.
      * values ( rest parameter ): Objects of type = ( { dataset, func }[] )
     
-* #### [_bundler:](!https://github.com/harsh863/js-practice-snippets/blob/master/helper/_bundler.js)
+* #### <a href="https://github.com/harsh863/js-practice-snippets/blob/master/helper/_bundler.js">_bundler:</a>
   
   Contain functions of all JS snippets in the repository with prefilled datasets.
   
 
-* #### [_compare:](!https://github.com/harsh863/js-practice-snippets/blob/master/helper/_compare.js)
+* #### <a href="https://github.com/harsh863/js-practice-snippets/blob/master/helper/_compare.js">_compare:</a>
 
   Takes following parameters as arguments =>
     * dataset: Dataset to be fed to passed functions whose runtime needs to be compared.
     * funcs ( rest parameter ): Functions to be compared.
 
-* #### [_log:](!https://github.com/harsh863/js-practice-snippets/blob/master/helper/_log.js)
+* #### <a href="https://github.com/harsh863/js-practice-snippets/blob/master/helper/_log.js">_log:</a>
   
   Takes following parameters as arguments =>
     * func: Function that needs to be executed 
     * args: Array of different argument whose outputs needs to be consoled.
 
-* #### [_run:](!https://github.com/harsh863/js-practice-snippets/blob/master/helper/_run.js)
+* #### <a href="https://github.com/harsh863/js-practice-snippets/blob/master/helper/_run.js">_run:</a>
   
   Takes following parameters as arguments =>
     * dataset: Dataset to be fed to passed functions.
